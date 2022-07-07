@@ -5,7 +5,11 @@ h1 {
      letter-spacing: 15px;
      font-size: 50px;
 }
-heading{
+.heading{
      align-items: center;
-     color:red;
+     color:indianred;
+}
+
+button{
+     text-align: center;
 }
