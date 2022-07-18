@@ -13,3 +13,9 @@ h1 {
 button{
      text-align: center;
 }
+button a {
+     text-decoration: none;
+}
+a :hover{
+     text-decoration: underline;
+}

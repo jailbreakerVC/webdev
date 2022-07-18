@@ -1,0 +1,18 @@
+img {
+  width: 30%;
+  height: 30%;
+  margin: 0.33%;
+}
+
+nav {
+  text-transform: uppercase;
+  border-bottom: 2px solid grey;
+  width: auto;
+  /* margin-left: 1.66%; */
+  padding: 20px 0;
+  font-family: "Raleway", sans-serif;
+  font-size: 30px;
+  position: sticky;
+  top: 0;
+  background-color: white;
+}
